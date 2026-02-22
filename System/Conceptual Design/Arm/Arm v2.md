@@ -74,3 +74,5 @@ graph TD
     GripperJaws -->|Grasping Force| Environment
     Environment -.->|Optical/QR Reflection| EndCam
 ```
+
+![[arm_block_diagram.svg]]
